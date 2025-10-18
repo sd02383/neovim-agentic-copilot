@@ -1,0 +1,96 @@
+# Neovim swap files
+*.swp
+*.swo
+*.swn
+*.swm
+
+# Neovim undo files
+*.un~
+*.undo
+
+# Neovim session files
+Session.vim
+
+# Neovim view files
+*.view
+
+# Neovim backup files
+*.bak
+*.backup
+
+# Neovim shada files (shared data)
+shada/*.shada
+shada/*.tmp
+
+# Log files
+log
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Viminfo files
+.viminfo
+
+# Neovim data directory (if it exists)
+data/
+.cache/
+
+# Plugin-specific cache
+lazy-lock.json.bak
+lazy-lock.json.tmp
+
+# Personal configurations
+local.lua
+local.vim
+
+# Sensitive files
+*.key
+*.pem
+*secret*
+*token*
+*auth*
+
+# Build artifacts
+build/
+dist/
+*.so
+*.dll
+
+# IDE/editor specific
+.cursor/
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (if any)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Rust target
+target/
+
+# Go build cache
+.cache/
+
+# Lock files that might contain sensitive info
+package-lock.json
+yarn.lock
+Cargo.lock
